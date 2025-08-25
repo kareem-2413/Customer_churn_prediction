@@ -57,6 +57,7 @@ We implemented and compared two ML models:
 - **ROC AUC**: `0.84`  
 - **Confusion Matrix**:  
 [[922 113]
+
 [181 193]]
 
 - **Observation**: Good precision for churn prediction but recall could improve.  
@@ -69,6 +70,7 @@ We implemented and compared two ML models:
 - **Confusion Matrix**:  
 
 [[936 99]
+
 [192 182]]
 
 - **Observation**: Higher recall compared to Logistic Regression, slightly better at identifying non-churners.  
