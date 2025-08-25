@@ -117,14 +117,8 @@ Businesses can use this model to identify at-risk customers and take proactive s
 # Clone the repo
 git clone [Link](https://github.com/kareem-2413/Customer_churn_prediction/tree/main)
 
-# Navigate to project folder
-cd churn-prediction
-
-# Install dependencies
-pip install -r requirements.txt
-
 # Run the notebook
-jupyter notebook churn_prediction.ipynb
+jupyter notebook churn.ipynb
 
 
 # 🏆 Author
