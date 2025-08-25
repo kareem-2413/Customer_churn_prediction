@@ -115,7 +115,7 @@ Businesses can use this model to identify at-risk customers and take proactive s
 ```bash
 ```
 # Clone the repo
-git clone https://github.com/yourusername/churn-prediction.git
+git clone [Link](https://github.com/kareem-2413/Customer_churn_prediction/tree/main)
 
 # Navigate to project folder
 cd churn-prediction
