@@ -110,23 +110,14 @@ Businesses can use this model to identify at-risk customers and take proactive s
 
 ---
 
-## 💡 How to Run the Project  
-
-```bash
-```
-# Clone the repo
-git clone [Link](https://github.com/kareem-2413/Customer_churn_prediction/tree/main)
-
-# Run the notebook
-jupyter notebook churn.ipynb
-
-
 # 🏆 Author
 
 👩‍💻 Kareem Basha Shaik
 
-🌐 LinkedIn
+🌐 [LinkedIn](add link here)
 
-🐙 GitHub
+🐙 [GitHub](add link here)
+
+💼 [Portfolio](add link here)
 
 ✨ Passionate about Data Science & Machine Learning
